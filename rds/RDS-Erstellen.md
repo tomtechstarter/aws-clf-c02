@@ -29,7 +29,7 @@
 ## MySQL Workbench
 1. Neue Verbindung über das + Erstellen 
 2. Namen eingeben für die Verbindung z.B. aws-rds
-3. unter Hostname den Endpunkt einfügen https://meet.google.com/omm-dusq-dvt
+3. unter Hostname den Endpunkt einfügen
 4. Benutzername zu admin ändern
 5. Passwort eingeben
 6. Verbindung sollte hergestellt sein
