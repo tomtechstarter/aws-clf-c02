@@ -36,4 +36,6 @@ Ihre Firma plant den Aufbau einer skalierbaren und sicheren Online-Shopping-Plat
    - Nutzen Sie Infrastructure as Code (IaC) für die Erstellung und Verwaltung der AWS-Ressourcen.
 
 
+![](./images/01-Solution.png)
+
 
